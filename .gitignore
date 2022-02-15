@@ -1,0 +1,14 @@
+.vscode/
+
+build/
+bin/
+lib/
+
+*.save.*
+
+.gitkeep
+.gitignore.swp
+.kdev*
+
+.coverage
+__pycache__

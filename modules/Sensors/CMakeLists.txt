@@ -1,0 +1,3 @@
+add_subdirectory(Cameras)
+add_subdirectory(RGBDCameras)
+add_subdirectory(VideoCodecs)

@@ -1,0 +1,5 @@
+add_subdirectory(CommunicationPointServer)
+add_subdirectory(ComponentAccessControl)
+add_subdirectory(DataPackets)
+add_subdirectory(DataPacketSocket)
+add_subdirectory(Sockets)

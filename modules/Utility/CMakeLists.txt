@@ -1,0 +1,6 @@
+add_subdirectory(CommonInterfaces)
+add_subdirectory(CommunicationUtility)
+add_subdirectory(DeviceManager)
+add_subdirectory(EventLogger)
+add_subdirectory(VisionUtility)
+
